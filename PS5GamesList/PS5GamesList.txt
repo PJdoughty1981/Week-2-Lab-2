@@ -1,0 +1,10 @@
+Max Payne,1,Mature 18,Remedy Entertainment,no
+Cyberpunk 2077,1,Mature 18,CD Projekt Red,no
+Sid Meier’s Civilization VI,12,PG12,Firaxis,yes
+Star Wars Jedi: Fallen Order,1,Teen 16,Respawn Entertainment,no
+NHL 24,2,Everyone,Electronic Arts,yes
+Payday 3,4,Mature 18,Starbreeze Studios,yes
+Baldur's Gate III,4,Mature 18,Larian Studios,yes
+Diablo IV,4,Mature 18,Blizzard Team 3Blizzard Albany,yes
+Anno 1800,16,PG12,Blue Byte,yes
+Atomic Heart,1,Mature 18,Mundfish,no
